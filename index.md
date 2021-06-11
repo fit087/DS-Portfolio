@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## Portfolio
+
+### Undergraduate Thesis
+I developed a Matlab code to solve a **Inverse Problem** using the *conjugate gradient method* and also I developed a Matlab code to solve the **Direct Problem** associated (Heat transfer Problem) using finite difference method (Crank-Nicolson). The inverse problem find the input parameters of the direct problem so that the result of the direct problem math the data (Temperature Time Series) read experimentally.
+
+### Master Dissertation
+
+
 
 You can use the [editor on GitHub](https://github.com/fit087/DS-Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
